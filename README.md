@@ -6,6 +6,8 @@
 
 À partir de la page `index.html` fournie, ajoutez du CSS dans `style.css` pour réaliser les consignes ci-dessous.
 
+> ⚠️ Vous ne devriez pas avoir à toucher le fichier `index.html`
+
 Chaque consigne indique **quel type de sélecteur** utiliser. L'objectif est de manipuler les sélecteurs d'attribut, les pseudo-classes et les pseudo-éléments vus en cours.
 
 Vérifiez le résultat dans le navigateur après chaque modification.
