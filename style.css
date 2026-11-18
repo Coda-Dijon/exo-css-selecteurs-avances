@@ -1,22 +1,13 @@
-/* Sélecteurs avancés — style.css */
-
 /* Consigne 1 : Ajouter un 🔗 avant chaque lien externe (URL commençant par http) */
-
 
 /* Consigne 2 : Mettre en gras le premier élément de la liste des ingrédients */
 
+/* Consigne 3 : Bordure rouge pour les champs de formulaire obligatoires (required) */
 
-/* Consigne 3 : Ajouter une bordure inférieure décorative après chaque titre <h2> */
+/* Consigne 4 : Changer la couleur de fond des lignes paires du tableau des étapes */
 
+/* Consigne 5 : Retirer le soulignement des liens au repos, le rétablir au survol */
 
-/* Consigne 4 : Colorer en rouge les champs de formulaire obligatoires (required) */
+/* Consigne 6 : Colorer en gris les paragraphes sauf celui ayant la classe intro */
 
-
-/* Consigne 5 : Changer la couleur de fond des lignes paires du tableau des étapes */
-
-
-/* Consigne 6 : Retirer le soulignement des liens au repos, le rétablir au survol */
-
-
-/* Consigne 7 : Colorer en gris les paragraphes sauf celui ayant la classe intro */
-
+/* Consigne 7 : Ajouter une bordure inférieure décorative après chaque titre <h2> */
